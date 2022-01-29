@@ -4,8 +4,7 @@ Hi and welcome to my first guide on Rmarkdown, here I will show you how to use e
 
 First of all you need to get one of those libraries, what you may want could depend of the result each library gives, so here are the final thing you will get with these libraries:
 
-![Plots-Example](https://raw.githubusercontent.com/Feligx/matrixplot-guide/main/plots_examples_white.png#gh-dark-mode-only)
-![Plots-Example](https://raw.githubusercontent.com/Feligx/matrixplot-guide/main/plots_examples.png#gh-light-mode-only)
+![Plots-Example](https://raw.githubusercontent.com/Feligx/matrixplot-guide/main/plots_examples.png)
 
 Now you have decided what library to use, check if you already have it or if not, install it.
 To do this we can use the `library()` function to check if we have it installed.
